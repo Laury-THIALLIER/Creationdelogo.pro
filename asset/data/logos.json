@@ -1,0 +1,589 @@
+{
+	"logos": [
+		{
+			"id": 1,
+			"name": "12e Avenue",
+			"intro": "Création de logo pour le salon de coiffure 12e Avenue, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2021",
+			"project": "Notre cliente souhaitait que nous lui concevions un logo monochrome, basé uniquement sur des typographies afin de lui conférer un caractère élégant.",
+			"image": "12e_avenue.webp"
+		},
+		{
+			"id": 2,
+			"name": "Adam & Elles",
+			"intro": "Refonte du logo de l'institut Adam & Elles, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2017",
+			"project": "À la demande de la gérante de l'institut, nous avons réalisé un rafraîchissement du logo, en vue de son utilisation sur divers supports, print & web...",
+			"image": "adam_et_elles.webp"
+		},
+		{
+			"id": 3,
+			"name": "Aletti Palace",
+			"intro": "Refonte de logo pour l'Aletti Palace, hôtel **** situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2010",
+			"project": "Le logo de l'Aletti Palace, quelque peu ”vieillot”, avait besoin d'un ”lifting”. Nous avons conservé les teintes initiales, retracé le logo et choisi une typo plus en phase avec notre époque.",
+			"image": "aletti_palace.webp"
+		},
+		{
+			"id": 4,
+			"name": "All-In Fitness",
+			"intro": "Création de logo pour la salle de musculation All-In Fitness, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2015",
+			"project": "Sur la base d'un croquis proposé par nos clients, nous avons réalisé la création du logo, en prenant soin de proposer un rose ”punchy” et une typographie adaptée.",
+			"image": "all-in_fitness.webp"
+		},
+		{
+			"id": 5,
+			"name": "Amourez-Vous",
+			"intro": "Création de logo pour le club de célibataires Amourez-Vous, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2017",
+			"project": "La demande de la cliente pour la création de ce logo était claire : elle souhaitait un logo avec un rendu haut de gamme et prestigieux, qui intègre la notion de rencontre. Nous avons donc proposé une typographie élégante teintée or, ainsi qu'un jeuavec les O qui s'entremêlent pour symboliser l'union.",
+			"image": "amourez-vous.webp"
+		},
+		{
+			"id": 6,
+			"name": "Association R.A.R.E.",
+			"intro": "Création de logo pour l'Association R.A.R.E., située à Clermont-Ferrand (63).",
+			"city": "Clermont-Ferrand (63)",
+			"date": "2017",
+			"project": "",
+			"image": "association_rare.webp"
+		},
+		{
+			"id": 7,
+			"name": "Aurelpercu",
+			"intro": "Création de logo pour le percussionniste Aurelpercu, à Rouen.",
+			"city": "Rouen (76)",
+			"date": "2014",
+			"project": "",
+			"image": "aurelpercu.webp"
+		},
+		{
+			"id": 8,
+			"name": "Belval Créations",
+			"intro": "Conception du logo de la société Belval Créations, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2021",
+			"project": "À l'aide des formes utilisées par les architectes de designers d'intérieur, nous avons symbolisé un B et un C pour composer le pictogramme. La touche dorée au centre vient apporter un aspect premium au logo.",
+			"image": "belval_creations.webp"
+		},
+		{
+			"id": 9,
+			"name": "Big Tiger",
+			"intro": "Conception du logo - sur base d'un croquis fourni par le client - du restaurant asiatique Big Tiger, situé à Bordeaux (33).",
+			"city": "Bordeaux (33)",
+			"date": "2021",
+			"project": "",
+			"image": "big_tiger.webp"
+		},
+		{
+			"id": 10,
+			"name": "Bistrot 41",
+			"intro": "Création de logo pour le bar-restaurant Bistrot 41, situé à Issy-les-Moulineaux (92).",
+			"city": "Issy-les-Moulineaux (92)",
+			"date": "2016",
+			"project": "",
+			"image": "bistrot_41.webp"
+		},
+		{
+			"id": 11,
+			"name": "Bistrot Auvergnat",
+			"intro": "Conception du logo du restaurant Le Bistrot Auvergnat, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2018",
+			"project": "Pour cette réalisation, il s'agissait d'intégrer le dôme des thermes de Vichy.",
+			"image": "bistrot_auvergnat.webp"
+		},
+		{
+			"id": 12,
+			"name": "Blizz",
+			"intro": "Création de logo pour la société Blizz, experte en solutions digitales, basée à Clermont-ferrand (63).",
+			"city": "Clermont-Ferrand (63)",
+			"date": "2019",
+			"project": "",
+			"image": "blizz.webp"
+		},
+		{
+			"id": 13,
+			"name": "Bovalon",
+			"intro": "Création de logo pour l'artiste Bovalon - DJ résident à l'Opium - situé à Toulouse (31).",
+			"city": "Toulouse (31)",
+			"date": "2020",
+			"project": "",
+			"image": "bovalon.webp"
+		},
+		{
+			"id": 14,
+			"name": "Brasserie Les Dômes",
+			"intro": "Création de logo pour la Brasserie Les Dômes, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2018",
+			"project": "",
+			"image": "brasserie_les_domes.webp"
+		},
+		{
+			"id": 15,
+			"name": "Connect Smart Drive",
+			"intro": "Conception de logo pour la société de transport & VTC Connect Smart Drive, située à Cannes (06).",
+			"city": "Cannes (06)",
+			"date": "2018",
+			"project": "",
+			"image": "connect_smart_drive.webp"
+		},
+		{
+			"id": 16,
+			"name": "Créatif Maison",
+			"intro": "Création de logo pour la boutique Créatif Maison, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2010",
+			"project": "",
+			"image": "creatif_maison.webp"
+		},
+		{
+			"id": 17,
+			"name": "CSM BTP",
+			"intro": "Création de logo pour la société CSM BTP, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2021",
+			"project": "",
+			"image": "csm_btp.webp"
+		},
+		{
+			"id": 18,
+			"name": "Domiciladoré",
+			"intro": "Conception de logo pour la SCI Domiciladoré, située à Maringues (63).",
+			"city": "Maringues (63)",
+			"date": "2021",
+			"project": "",
+			"image": "domiciladore.webp"
+		},
+		{
+			"id": 19,
+			"name": "Eofix",
+			"intro": "Création de logo pour Eofix, solution de gestion de parc éolien, située à Clermont-Ferrand (63).",
+			"city": "Clermont-Ferrand (63)",
+			"date": "2016",
+			"project": "",
+			"image": "eofix.webp"
+		},
+		{
+			"id": 20,
+			"name": "ESC Clermont",
+			"intro": "Création de logo pour l'École Supérieure de Commerce de Clermont-Ferrand (63).",
+			"city": "Clermont-Ferrand (63)",
+			"date": "2012",
+			"project": "",
+			"image": "esc_clermont.webp"
+		},
+		{
+			"id": 21,
+			"name": "High & Fines Herbes",
+			"intro": "Création de logo pour la boutique de CBD High & Fines Herbes, située à Cusset (03).",
+			"city": "Cusset (03)",
+			"date": "2021",
+			"project": "",
+			"image": "high_et_fines_herbes.webp"
+		},
+		{
+			"id": 22,
+			"name": "Hood Soul Ent",
+			"intro": "Conception de logo pour la maison de production Houd Soul Entertainment, située en Irlande.",
+			"city": "Irlande",
+			"date": "2015",
+			"project": "",
+			"image": "hood_soul_ent.webp"
+		},
+		{
+			"id": 23,
+			"name": "Hôtel des Thermes Callou",
+			"intro": "Création de logo pour l'hôtel des Thermes Callou, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2018",
+			"project": "",
+			"image": "hotel_des_thermes_callou.webp"
+		},
+		{
+			"id": 24,
+			"name": "ISO Menuiseries",
+			"intro": "Création de logo pour la société ISO Menuiseries, située à Perpignan (66).",
+			"city": "Perpignan (66)",
+			"date": "2018",
+			"project": "",
+			"image": "iso_menuiseries.webp"
+		},
+		{
+			"id": 25,
+			"name": "Jantzen Fleurs",
+			"intro": "Conception de logo pour le fleuriste Jantzen Fleurs, situé à Aubière (63).",
+			"city": "Aubière (63)",
+			"date": "2020",
+			"project": "",
+			"image": "jantzen_fleurs.webp"
+		},
+		{
+			"id": 26,
+			"name": "Jérôme Barthélemy",
+			"intro": "Création de logo pour le DJ Jérôme Barthélemy, résident au Nikki Beach (Saint-Barthélemy).",
+			"city": "Saint-Barthélemy",
+			"date": "2017",
+			"project": "",
+			"image": "jerome_barthelemy.webp"
+		},
+		{
+			"id": 27,
+			"name": "Jolie Moi",
+			"intro": "Création de logo pour l'institut de beauté Jolie Moi, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2021",
+			"project": "",
+			"image": "jolie_moi.webp"
+		},
+		{
+			"id": 28,
+			"name": "Jonathan Bitton",
+			"intro": "Conception d'un pictogramme pour l'artiste-coiffeur Jonathan Bitton, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2010",
+			"project": "",
+			"image": "jonathan_bitton.webp"
+		},
+		{
+			"id": 29,
+			"name": "Keystone Pub",
+			"intro": "Proposition de logo (non retenue) pour le Keystone Pub, situé à Clermont-Ferrand (63).",
+			"city": "Clermont-Ferrand (63)",
+			"date": "2017",
+			"project": "Proposition non retenue.",
+			"image": "keystone_pub.webp"
+		},
+		{
+			"id": 30,
+			"name": "Kodiak Store",
+			"intro": "Création de logo pour la société Kodiak Store, située à Bellerive-sur-Allier (03).",
+			"city": "Bellerive-sur-Allier (03)",
+			"date": "2021",
+			"project": "",
+			"image": "kodiak_store.webp"
+		},
+		{
+			"id": 31,
+			"name": "Le Comptoir du Cycliste",
+			"intro": "Porposition de logo (non retenue) pour la boutique de cycles Le Comptoir du Cycliste, basée à Cusset (03).",
+			"city": "Cusset (03)",
+			"date": "2020",
+			"project": "",
+			"image": "le_comptoir_du_cycliste.webp"
+		},
+		{
+			"id": 32,
+			"name": "Le Florencia",
+			"intro": "Création de logo pour la pizzeria Le Florencia, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2017",
+			"project": "",
+			"image": "le_florencia.webp"
+		},
+		{
+			"id": 33,
+			"name": "Le Gaulois",
+			"intro": "Conception - sur la base d'une illustration - pour la brasserie Le Gaulois, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2012",
+			"project": "",
+			"image": "le_gaulois.webp"
+		},
+		{
+			"id": 34,
+			"name": "Le Moulin Bleu",
+			"intro": "Proposition de logo (non retenue) pour le cabaret Le Moulin Bleu, situé à Thiers (63).",
+			"city": "Thiers (63)",
+			"date": "2021",
+			"project": "",
+			"image": "le_moulin_bleu.webp"
+		},
+		{
+			"id": 35,
+			"name": "Le Vichy",
+			"intro": "Création de logo pour la brasserie Le Vichy, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2018",
+			"project": "",
+			"image": "le_vichy.webp"
+		},
+		{
+			"id": 36,
+			"name": "Leanalys Support",
+			"intro": "Création de logo pour la société Leanalys Support, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2021",
+			"project": "",
+			"image": "leanalys_support.webp"
+		},
+		{
+			"id": 37,
+			"name": "Les Rats Malins",
+			"intro": "Conception - sur la base d'une illustration - pour l'annuaire web Les Rats Malins, situé à Guéret (23).",
+			"city": "Guéret (23)",
+			"date": "2016",
+			"project": "",
+			"image": "les_rats_malins.webp"
+		},
+		{
+			"id": 38,
+			"name": "Les Ruchers de Saint-Mayeul",
+			"intro": "Création de logo pour la société Les Ruchers de Saint-Mayeul, située au Veurdre (03).",
+			"city": "Veurdre (03)",
+			"date": "2020",
+			"project": "",
+			"image": "les_ruchers_de_saint-mayeul.webp"
+		},
+		{
+			"id": 39,
+			"name": "LTI Couverture",
+			"intro": "Création de logo pour la société LTI Couverture, située à Cusset (03).",
+			"city": "Cusset (03)",
+			"date": "2019",
+			"project": "",
+			"image": "lti_couverture.webp"
+		},
+		{
+			"id": 40,
+			"name": "Marindodouce",
+			"intro": "Création de logo pour la société Marindodouce, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2015",
+			"project": "",
+			"image": "marindodouce.webp"
+		},
+		{
+			"id": 41,
+			"name": "Mathieu Pulido",
+			"intro": "Création de logo et de pictogramme pour Mathieu Pulido, conseiller en patrimoine et finance, situé à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2021",
+			"project": "",
+			"image": "mathieu_pulido.webp"
+		},
+		{
+			"id": 42,
+			"name": "Maud Pianon",
+			"intro": "Conception de logo et réalisation de la charte graphique de l'architecte et designer d'intérieur Maud Pianon Home, située à Cannes (06).",
+			"city": "Cannes (06)",
+			"date": "2021",
+			"project": "",
+			"image": "maud_pianon.webp"
+		},
+		{
+			"id": 43,
+			"name": "Mayma Concept",
+			"intro": "Création de logo pour la société Mayma Concept, située à Thiers (63).",
+			"city": "Thiers (63)",
+			"date": "2018",
+			"project": "",
+			"image": "mayma_concept.webp"
+		},
+		{
+			"id": 44,
+			"name": "Metaphysic",
+			"intro": "Conception de logo et de pictogramme pour la société Metaphysic, située à Nandy (77).",
+			"city": "Nandy (77)",
+			"date": "2015",
+			"project": "",
+			"image": "metaphysic.webp"
+		},
+		{
+			"id": 45,
+			"name": "Monia Moula",
+			"intro": "Création de logo pour l'actrice et cascadeuse Monia Moula.",
+			"city": "",
+			"date": "2017",
+			"project": "",
+			"image": "monia_moula.webp"
+		},
+		{
+			"id": 46,
+			"name": "MLT Photography",
+			"intro": "Création de logo pour le photographe Moral Le Thaï, situé à Moissy-Cramayel (77).",
+			"city": "Moissy-Cramayel (77)",
+			"date": "2014",
+			"project": "",
+			"image": "morad_le_thai.webp"
+		},
+		{
+			"id": 47,
+			"name": "Moulin de Perthus",
+			"intro": "Création de logo pour le Moulin de Perthus, minoterie familiale située à St-Rémy-de-Chargnat (63).",
+			"city": "St-Rémy-de-Chargnat (03)",
+			"date": "2017",
+			"project": "",
+			"image": "moulin_de_perthus.webp"
+		},
+		{
+			"id": 48,
+			"name": "My eSport",
+			"intro": "Conception de logo et de pictogramme pour la boutique en ligne My eSport.",
+			"city": "",
+			"date": "2017",
+			"project": "",
+			"image": "my_esport.webp"
+		},
+		{
+			"id": 49,
+			"name": "OrKiss",
+			"intro": "Création de logo pour la marque de vêtements OrKiss.",
+			"city": "",
+			"date": "2010",
+			"project": "",
+			"image": "orkiss.webp"
+		},
+		{
+			"id": 50,
+			"name": "Ozladeco",
+			"intro": "Création de logo pour Stéphanie Auzat, société Ozladeco située à Issoire (63).",
+			"city": "Issoire (63)",
+			"date": "2018",
+			"project": "",
+			"image": "ozladeco.webp"
+		},
+		{
+			"id": 51,
+			"name": "Phoebus",
+			"intro": "Création de logo pour le DJ vichyssois Phoebus.",
+			"city": "Vichy (03)",
+			"date": "2017",
+			"project": "",
+			"image": "phoebus.webp"
+		},
+		{
+			"id": 52,
+			"name": "Pizzeria Piccolino",
+			"intro": "Conception - sur la base d'une illustration - pour la pizzeria Piccolino, située à Cusset (03).",
+			"city": "Cusset (03)",
+			"date": "2015",
+			"project": "",
+			"image": "piccolino.webp"
+		},
+		{
+			"id": 53,
+			"name": "Prop'Éclair",
+			"intro": "Création de logo pour la société Prop'Éclair, située à Clermont-Ferrand (63).",
+			"city": "Clermont-Ferrand (63)",
+			"date": "2018",
+			"project": "",
+			"image": "prop_eclair.webp"
+		},
+		{
+			"id": 54,
+			"name": "Pyl-Pyl",
+			"intro": "Création de logo et réalisation de la charte graphique de la brasserie le Pyl-Pyl, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2012",
+			"project": "",
+			"image": "pyl-pyl.webp"
+		},
+		{
+			"id": 55,
+			"name": "Qualypso Conseil",
+			"intro": "Conception de logo et de pictogramme pour la société Qualypso Conseil, située à Moulins (03).",
+			"city": "Moulins (03)",
+			"date": "2021",
+			"project": "",
+			"image": "qualypso_conseil.webp"
+		},
+		{
+			"id": 56,
+			"name": "Régis Chabrier",
+			"intro": "Création de logo pour Régis Chabrier; fabricant d'engrais biologiques, situé à Montpensier (63).",
+			"city": "Montpensier (63)",
+			"date": "2019",
+			"project": "",
+			"image": "regis_chabrier.webp"
+		},
+		{
+			"id": 57,
+			"name": "Rue & Attitude",
+			"intro": "Création de logo pour le label musical Rue & Attitude, situé au Pecq (78).",
+			"city": "Pecq (78)",
+			"date": "2016",
+			"project": "",
+			"image": "rue_et_attitude.webp"
+		},
+		{
+			"id": 58,
+			"name": "Sabine Lassalle",
+			"intro": "Création de logo pour Sabine Lassalle, naturopathe-énergéticienne, située à Abrest (03).",
+			"city": "Abrest (03)",
+			"date": "2021",
+			"project": "",
+			"image": "sabine_lassalle.webp"
+		},
+		{
+			"id": 59,
+			"name": "Sandra Dardé",
+			"intro": "Création de logo pour Sandra Dardé, sophrologue et relaxologue, située à Brugheas (03).",
+			"city": "Brugheas (03)",
+			"date": "2015",
+			"project": "",
+			"image": "sandra_darde.webp"
+		},
+		{
+			"id": 60,
+			"name": "Spacebowl",
+			"intro": "Conception de logo pour le Spacebowl - bowling & laser game - situé à Cusset (03).",
+			"city": "Cusset (03)",
+			"date": "2016",
+			"project": "",
+			"image": "spacebowl.webp"
+		},
+		{
+			"id": 61,
+			"name": "Team Bilos",
+			"intro": "Création de logo pour l'équipe de muay thai Team Bulos, située au Mée-sur-Seine (77).",
+			"city": "Méé-sur-Seine (77)",
+			"date": "2011",
+			"project": "Tracé du boxeur sur la base d'une photo de Bobo Sacko.",
+			"image": "team_bilos.webp"
+		},
+		{
+			"id": 62,
+			"name": "Thomas Pasko",
+			"intro": "Conception de logo pour le DJ roannais Thomas Pasko.",
+			"city": "Roanne (42)",
+			"date": "2012",
+			"project": "",
+			"image": "thomas_pasko.webp"
+		},
+		{
+			"id": 63,
+			"name": "VeloKom'",
+			"intro": "Création de logo pour le concept de vélos publicitaires VeloKom', situé à Vichy (03) puis à Clermont-Ferrand (63).",
+			"city": "Clermont-Ferrand (63)",
+			"date": "2017",
+			"project": "",
+			"image": "velokom.webp"
+		},
+		{
+			"id": 64,
+			"name": "Vichy Conciergerie",
+			"intro": "Conception de logo pour la société Vichy Conciergerie, située à Vichy (03).",
+			"city": "Vichy (03)",
+			"date": "2019",
+			"project": "",
+			"image": "vichy_conciergerie.webp"
+		},
+		{
+			"id": 65,
+			"name": "Voice OING",
+			"intro": "Création de logo pour la société Voice OING, située Bellerive-sur-Allier (03).",
+			"city": "Bellerive-sur-Allier (03)",
+			"date": "2017",
+			"project": "",
+			"image": "voice_oing.webp"
+		}
+    ]
+}
